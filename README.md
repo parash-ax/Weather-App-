@@ -1,2 +1,76 @@
-# \uD83C\uDF26 Weather App \u2013 Real-Time Weather Updates  \n\nA sleek and modern **Weather App** that provides real-time weather updates for any city worldwide. Built using **Python** and **Streamlit**, this app fetches live weather data from the **OpenWeatherMap API** and displays it in a user-friendly interface.\n\n## \uD83D\uDCCC Features  \n\u2705 **Real-time Weather Data** \u2013 Temperature, humidity, wind speed, and conditions  \n\u2705 **Minimalist & Professional UI** \u2013 Designed with a clean, responsive layout  \n\u2705 **Live API Integration** \u2013 Fetches data from OpenWeatherMap API  \n\u2705 **Fast & Lightweight** \u2013 Built with Streamlit for a smooth experience  \n\n---\n\n## \uD83D\uDE80 Installation & Setup  \n\n### **1\uFE0F\u20E3 Clone the Repository**  \n```bash\ngit clone https://github.com/yourusername/weather-app.git\ncd weather-app\n```\n\n### **2\uFE0F\u20E3 Install Dependencies**  \nEnsure you have Python installed, then install required packages:  \n```bash\npip install -r requirements.txt\n```\n\n### **3\uFE0F\u20E3 Get an OpenWeatherMap API Key**  \n1. Sign up at [OpenWeatherMap](https://openweathermap.org/api)  \n2. Generate an API key  \n3. Create a `.env` file in the project folder and add:  \n   ```\n   OPENWEATHER_API_KEY=your_api_key_here\n   ```\n\n### **4\uFE0F\u20E3 Run the App**  \n```bash\nstreamlit run app.py\n```\n\n---\n\n## \uD83C\uDFA8 Screenshots  \n![Weather App UI](https://your-image-link.png)  \n\n---\n\n## \uD83D\uDD27 Technologies Used  \n- **Python** \uD83D\uDC16  \n- **Streamlit** \uD83C\uDFA8  \n- **Requests (for API calls)** \uD83C\uDF0D  \n- **OpenWeatherMap API** \u2601\uFE0F  \n\n---\n\n## \uD83E\uDD1D Contributing  \nContributions are welcome! Feel free to **fork**, create a **pull request**, or open an **issue**.  \n\n---\n\n## \uD83D\uDCDD License  \nThis project is licensed under the **MIT License**.  \n\n---\n\n### \uD83D\uDCA1 **Made with \u2764\uFE0F by [Your Name]**
+# 🌦 Weather App – Real-Time Weather Updates
+
+A sleek and modern **Weather App** that provides real-time weather updates for any city worldwide. Built using **Python** and **Streamlit**, this app fetches live weather data from the **OpenWeatherMap API** and displays it in a user-friendly interface.
+
+## 📌 Features
+
+✅ **Real-time Weather Data** – Temperature, humidity, wind speed, and conditions\
+✅ **Minimalist & Professional UI** – Designed with a clean, responsive layout\
+✅ **Live API Integration** – Fetches data from OpenWeatherMap API\
+✅ **Fast & Lightweight** – Built with Streamlit for a smooth experience
+
+---
+
+## 🚀 Installation & Setup
+
+### **1️⃣ Clone the Repository**
+
+```bash
+git clone https://github.com/parash-ax/weather-app.git
+cd weather-app
+```
+
+### **2️⃣ Install Dependencies**
+
+Ensure you have Python installed, then install required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+### **3️⃣ Get an OpenWeatherMap API Key**
+
+1. Sign up at [OpenWeatherMap](https://openweathermap.org/api)
+2. Generate an API key
+3. Create a `.env` file in the project folder and add:
+   ```
+   OPENWEATHER_API_KEY=your_api_key_here
+   ```
+
+### **4️⃣ Run the App**
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 🎨 Screenshots
+
+
+
+---
+
+## 🔧 Technologies Used
+
+- **Python** 🐖
+- **Streamlit** 🎨
+- **Requests (for API calls)** 🌍
+- **OpenWeatherMap API** ☁️
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to **fork**, create a **pull request**, or open an **issue**.
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+### 💡 **Made with ❤️ by [ParashRam]**
 
